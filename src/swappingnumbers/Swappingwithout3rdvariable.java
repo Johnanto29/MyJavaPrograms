@@ -1,6 +1,6 @@
 package swappingnumbers;
 
-public class swappingwithout3rdvariable {
+public class Swappingwithout3rdvariable {
 
 	public void swap() {
 		int a = 5, b = 6;
@@ -21,7 +21,7 @@ public class swappingwithout3rdvariable {
 	}
 
 	public static void main(String[] args) {
-		swappingwithout3rdvariable swp = new swappingwithout3rdvariable();
+		Swappingwithout3rdvariable swp = new Swappingwithout3rdvariable();
 		swp.swap();
 	}
 
